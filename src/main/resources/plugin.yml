@@ -1,0 +1,8 @@
+name: SFR
+main: com.destroystokyo.stopfastregen.StopFastRegen
+version: ${project.version}
+author: Zbob750
+permissions:
+  stopfastregen.bypass:
+    description: Allows fast regen for this user
+    default: false
